@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <div class="container">
-      <div class="title">Me-Apps</div>
+      <div class="title">MeetMe</div>
       <div class="menus">
         <Menus />
       </div>
