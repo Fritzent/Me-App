@@ -32,6 +32,7 @@
     "nuxt": "2.14.6",
     "nuxt-tailvue": "^1.0.49",
     "portal-vue": "2.1.7",
+    "sass-loader": "^11.0.1",
     "vt-notifications": "^0.3.1",
     "vue-infinite-loading": "2.4.5"
   },

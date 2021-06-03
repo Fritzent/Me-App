@@ -1,19 +1,6 @@
 <template>
   <div class="wrapper">
-    <!-- <FormulateForm v-model="value" class="form">
-      <FormulateInput
-        type="text"
-        label="Username"
-        name="username"
-        placeholder="Masukkan username anda..."
-      />
-      <FormulateInput
-        type="password"
-        label="Password"
-        name="password"
-        placeholder="Masukkan password anda..."
-      />
-    </FormulateForm> -->
+    <Coming />
   </div>
 </template>
 
@@ -23,7 +10,7 @@ import { defineComponent } from '@nuxtjs/composition-api'
 
 export default defineComponent({
   name: 'PageIndex',
-  layout: 'default',
+  layout: 'ongoing',
   setup() {
     return {}
   },
